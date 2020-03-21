@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Ntandoyenkosi Ndlovu"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "ntando.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Somewhere in the world"
   email            : "ntandokandlovu@gmail.com"
